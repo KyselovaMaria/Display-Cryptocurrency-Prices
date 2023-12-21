@@ -1,0 +1,11 @@
+Use cases
+1. add currency pair
+2. remove currency pair
+3. get all pairs
+4. get single pair (by id)
+4. edit pair(edit frequency update)  !!!for test
+5. get info about time period  !! TEST
+6. get graph    !! TEST
+7. add currency     !! TEST
+8. remove currency  !! TEST
+9. get currencies list  !! TEST
